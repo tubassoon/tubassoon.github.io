@@ -47,32 +47,25 @@ table {
 	border-spacing: 0;
 }
 
+/* Typography */
 
-
-body {
-    background-color: #5289BE ;
-    background-image: url(2560x1440-blue-abstract-noise-free-website-background-image.jpg);
-}
-
-/*typography*/
-
-body h1, h2, h3, h4, h5, h6, p, a {
+h1, h2, h3, h4, h5, h6, p, a {
     font-family: 'Signika', sans-serif;
     padding-top: 17px;
 }
 
-body h1 {
+h1 {
     font-size: 32px;
     font-weight: 600;
 }
 
-body h3 {
+h3 {
     font-size: 24px;
     font-weight: 300;
     margin-bottom: 10px;
 }
 
-body h4 {
+h4 {
     font-size: 18px;
     font-weight: 300;
 }
@@ -87,6 +80,13 @@ a:hover {
     color: #a9b2b9;
   }
 
+/* Main */
+
+body {
+    background-color: #5289BE ;
+    background-image: url(2560x1440-blue-abstract-noise-free-website-background-image.jpg);
+}
+
 .bio {
     display: block;
     position: relative;
@@ -99,7 +99,6 @@ a:hover {
     padding: 125px 30px 15px 30px;
     text-align: center;
     color: #F4F4F7;
-
 }
 
 .profile-pic img{
