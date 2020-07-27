@@ -82,7 +82,8 @@ a {
     text-decoration: none;
     font-size: 20px;
   }
-  a:hover {
+
+a:hover {
     color: #a9b2b9;
   }
 
