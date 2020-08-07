@@ -108,10 +108,8 @@ section {
 }
 
 body {
-    line-height: 1;
+    line-height: 1.25em;
     margin: 10px;
-    max-height: 95vw;
-    overflow: hidden;
 }
 
 ol,
